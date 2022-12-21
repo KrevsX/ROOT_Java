@@ -11,7 +11,7 @@ package JAVA_V.TipoDatosAvanzados.Arrays;
 public class Main {
     public static void main(String[] args) {
 
-        //Array1();
+        Array1();
         Array2();
 
 
