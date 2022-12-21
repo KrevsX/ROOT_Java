@@ -16,12 +16,22 @@ public class CadenaTexto {
 
 
         System.out.println("-----------------------");
-        String cadenaTexto = "Mensaje de Textooo.";
+        String cadenaTexto = "HOLAAA MUNDO";
 
+        // Version 1
+        System.out.println("Version 1");
+
+        for (int i = cadenaTexto.length() - 1; i >= 0; i--) {
+            System.out.print(cadenaTexto.charAt(i));
+        }
+
+        // Version 2
+        System.out.println("\n-----------------------");
+
+        System.out.println("Version 2");
          for (int i = cadenaTexto.length() - 1; i >= 0; i--) {
             System.out.print(cadenaTexto.charAt(i));
-             System.out.println(" ");
-
+            System.out.println();
          }
         System.out.println("-----------------------");
 
