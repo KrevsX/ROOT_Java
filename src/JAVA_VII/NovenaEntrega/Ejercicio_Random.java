@@ -16,7 +16,7 @@ import java.io.InputStream;
 import java.io.PrintStream;
 import java.util.*;
 
-public class Dta_Base_connection {
+public class Ejercicio_Random {
 
     public static void main(String[] args) {
         InputStream input = null;
