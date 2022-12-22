@@ -15,7 +15,7 @@ public class A_Unidimensional {
     public static void main(String[] args) {
 
         // Version 1
-        String[] arraUniDi = {"Item 1", "Item 2", "Item 3"};
+        String[] arraUniDi = {"Elemento 1", "Elemento 2", "Elemento 3"};
 
         System.out.println("---------------");
         System.out.println("Version 1");
@@ -32,9 +32,9 @@ public class A_Unidimensional {
         System.out.println("Version 2");
         System.out.println("---------------");
 
-        String[] array1 = {"Item 1", "Item 2", "Item 3"};
+        String[] arrayUniDi1 = {"Elemento 1", "Elemento 2", "Elemento 3"};
 
-        for (String item : array1) {
+        for (String item : arrayUniDi1) {
             System.out.println(item);
         }
 
