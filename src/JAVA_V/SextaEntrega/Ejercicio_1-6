@@ -10,7 +10,7 @@ Escribe el código que devuelva una cadena al revés. Por ejemplo, la cadena "ho
 ambas dimensiones.
 
 3- Crea un "Vector" del tipo de dato que prefieras, y añádele 5 elementos. Elimina el 2o y 3er elemento y muestra
- el resultado final.
+el resultado final.
 
 4- Indica cuál es el problema de utilizar un Vector con la capacidad por defecto si tuviésemos 1000 elementos
 para ser añadidos al mismo.

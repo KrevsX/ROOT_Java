@@ -10,7 +10,7 @@
 
 package JAVA_VI.SeptimaEntrega.Errores;
 
-public class Ex7 {
+public class Error_Throws {
     public static void main(String[] args) {
         try {
             DividePorCero();
