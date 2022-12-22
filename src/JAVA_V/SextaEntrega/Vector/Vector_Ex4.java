@@ -10,5 +10,22 @@
 
 package JAVA_V.SextaEntrega.Vector;
 
+import java.util.Vector;
+
 public class Vector_Ex4 {
+
+    public static void main(String[] args) {
+
+        // Version 1
+
+        System.out.println("---------------");
+        System.out.println("Version 1");
+        System.out.println("---------------");
+
+
+        Vector<String> vector = new Vector<>(1000);
+
+        System.out.println("La Capacidad del Vector es: " + vector.capacity());
+
+    }
 }
