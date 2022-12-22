@@ -1,0 +1,8 @@
+$$ 6- Crea un ArrayList de tipo String, con 4 elementos. Cópialo en una LinkedList.
+Recorre ambos mostrando únicamente el valor de cada elemento.
+
+$$ 7- Crea un ArrayList de tipo int, y, utilizando un bucle rellénalo con
+elementos 1..10. A continuación, con otro bucle, recórrelo y elimina los
+numeros pares. Por último, vuelve a recorrerlo y muestra el ArrayList final.
+Si te atreves, puedes hacerlo en menos pasos, siempre y cuando cumplas
+el primer "for" de relleno.

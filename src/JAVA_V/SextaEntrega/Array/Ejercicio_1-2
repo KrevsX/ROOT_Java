@@ -1,0 +1,5 @@
+$$ 1- Crea un array unidimensional de Strings y recórrelo,
+$$ mostrando únicamente sus valores.
+
+$$ 2- Crea un array bidimensional de enteros y recórrelo,
+$$ mostrando la posición y el valor de cada elemento en ambas dimensiones.
