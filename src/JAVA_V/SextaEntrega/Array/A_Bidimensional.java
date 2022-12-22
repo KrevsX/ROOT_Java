@@ -1,6 +1,6 @@
 /*******************************************************************************
  * Copyright (c) 2022. By.Kevin Alas
- *  All rights reserved
+ * All rights reserved
  * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
  * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
  * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
