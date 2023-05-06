@@ -22,8 +22,6 @@ public class A_Unidimensional {
         System.out.println("---------------");
 
 
-
-
         // Version 2
         for (int i = 0; i < arraUniDi.length; i++) {
             System.out.println(arraUniDi[i]);
@@ -42,3 +40,5 @@ public class A_Unidimensional {
 
     }
 }
+
+

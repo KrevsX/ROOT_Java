@@ -30,6 +30,7 @@ public class A_Bidimensional {
 
         // Version 2
 
+
         System.out.println("---------------");
         System.out.println("Version 2");
         System.out.println("---------------");
@@ -50,7 +51,6 @@ public class A_Bidimensional {
                 System.out.println("Posicion: (" + i + ", " + j + ") Valor: " + arrayBiDi2[i][j]);
             }
         }
-
-
     }
 }
+

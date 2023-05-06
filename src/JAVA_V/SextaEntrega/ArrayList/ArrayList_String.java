@@ -39,6 +39,7 @@ public class ArrayList_String {
         for (String valor2 : linkedList) {
             System.out.println(valor2);
         }
-
     }
 }
+
+

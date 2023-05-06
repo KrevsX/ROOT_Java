@@ -23,7 +23,6 @@ public class InputPrint_Stream {
            y escribimos \ cat \ y el nombre del fichero que hemos escrito...
          */
 
-
         CopiaFichero("/etc/passwd", "/etc/passwd"); // agregar otro directorio..
     }
     public static void CopiaFichero(String fileIn, String fileOut) {
@@ -56,3 +55,5 @@ public class InputPrint_Stream {
         }
     }
 }
+
+
