@@ -35,7 +35,7 @@ public class A_Bidimensional {
         System.out.println("Version 2");
         System.out.println("---------------");
 
-        int arrayBiDi2[][] = new int [2][4];
+        int[][] arrayBiDi2 = new int [2][4];
         arrayBiDi2[0][0] = 100;
         arrayBiDi2[0][1] = 200;
         arrayBiDi2[0][2] = 300;

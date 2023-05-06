@@ -23,8 +23,8 @@ public class A_Unidimensional {
 
 
         // Version 2
-        for (int i = 0; i < arraUniDi.length; i++) {
-            System.out.println(arraUniDi[i]);
+        for (String s : arraUniDi) {
+            System.out.println(s);
         }
         System.out.println("---------------");
         System.out.println("Version 2");
